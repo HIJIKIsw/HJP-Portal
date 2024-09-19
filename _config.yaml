@@ -1,5 +1,6 @@
-title: [ひじポ]
-description: [たくさん遊ぶ、たくさん貯まる]
+site:
+  title: [ひじポ]
+  description: [たくさん遊ぶ、たくさん貯まる]
 plugins:
 - jekyll-remote-theme
 remote_theme: pages-themes/cayman@v0.2.0
